@@ -1,0 +1,14 @@
+/* Elements sélector */
+h1{
+    color: chocolate;
+}
+
+/* Class Sélector */
+.colored{
+    color: red;
+}
+
+/* Id sélector */
+#super{
+    color: blueviolet;
+}
